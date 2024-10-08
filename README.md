@@ -1,4 +1,7 @@
 # Code for "Integrating Virtual and Physical Interactions through higher-order networks to control epidemics"
 
-# higher-order-epidemic-control
-Code associated to the paper 'Integrating Virtual and Physical Interactions through higher-order networks to control epidemics' Chaos, Solitons and Fractals (2024)
+This code files contain some functions to reproduce simulations and analyses of the paper "Integrating Virtual and Physical Interactions through higher-order networks to control epidemics", published in Chaos, Solitons and Fractals (2024).
+
+# Abstract
+
+In the context of our increasingly digitalized society, virtual interactions have become integral to daily communication, complementing traditional face-to-face interactions. These digital pathways, however, are often overlooked in the context of epidemic control, particularly in Digital Contact Tracing, where adoption rates of tailored wearable applications for this purpose remain suboptimal. This study elucidates the key role of the virtual environment in managing infectious disease outbreaks. We develop an integrated framework that combines various detection strategies to assess the efficacy of virtual tools in bending epidemic waves, analogous to conventional Contact Tracing approaches. Our analysis extends to the dynamics of higher-order interactions --- characteristic of virtual platforms --- and their contribution to epidemic control. Furthermore, we investigate the interplay between physical and virtual interactions, that aligned interactions optimize epidemic control in daily routine scenarios. Our findings underscore the critical role of virtual interactions in epidemic management, suggesting that current societal structures inherently support innovative detection and control strategies.
